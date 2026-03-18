@@ -1,0 +1,12 @@
+var e=`---
+date: 2026-03-16
+title: Started the "Learning Journey" project
+objectives:
+  - Project: Learning Journey
+categories:
+  - React
+actions:
+  - Created a Git repository for "learning-journey"
+  - Planned the data entry structure for the project
+summary: Started the project to make my learning more efficient and goal-oriented.
+---`;export{e as default};

@@ -6,7 +6,7 @@ type ArrayKey = 'objectives' | 'categories' | 'actions'
 const ARRAY_KEYS: Set<string> = new Set(['objectives', 'categories', 'actions'])
 
 export const Parser = (raw: string) => {
-  const match = raw.match(/^---\n([\s\S]*?)\n---/)
+  const match = raw.match(/^\s*---\n([\s\S]*?)\n---/)
   
   if (!match) {
     return { data: {} as Frontmatter, content: raw }

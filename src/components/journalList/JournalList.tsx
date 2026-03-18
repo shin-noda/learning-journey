@@ -11,18 +11,18 @@ const JournalList = () => {
     useEffect(() => {
         const loadJournals = async () => {
             const files = import.meta.glob('/src/data/*.md', {
-                as: 'raw'
+                query: '?raw',
+                import: 'default' 
             })
 
             const entries: JournalEntry[] = []
 
             for (const path in files) {
                 const fileContent = await files[path]()
-                const { data, content } = Parser(fileContent as string)
+                const { data } = Parser(fileContent as string)
 
                 entries.push({
-                    ...(data as Omit<JournalEntry, 'content'>),
-                    content
+                    ...(data as JournalEntry)
                 })
             }
 

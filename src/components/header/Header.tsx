@@ -1,10 +1,9 @@
-import Navbar from '../navbar/Navbar'
 import './Header.css'
 
 const Header = () => {
     return (
-        <header>
-            <Navbar />
+        <header className="header">
+            <h1 className="header-title">Learning Journey</h1>
         </header>
     )
 }

@@ -1,0 +1,13 @@
+var e=`---
+date: 2026-04-08
+title: Worked on LeetCode Problems
+objectives:
+  - LeetCode
+categories:
+  - Python
+  - Linked List
+actions:
+  - Solved Problem 86 (Partition List)
+  - Solved Problem 146 (LRU Cache)
+summary: Completed problems in the Linked List section.
+---`;export{e as default};

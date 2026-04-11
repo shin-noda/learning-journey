@@ -1,12 +1,18 @@
 import { useEffect, useState } from 'react'
 import Journal from '../journal/Journal'
-import { Parser } from '../../utils/Parser'
-import type { JournalEntry } from '../../type/JournalEntry'
-import './JournalList.css'
+import Pagination from '../pagination/Pagination'
 
+import type { JournalEntry } from '../../type/JournalEntry'
+
+import { getPaginatedItems } from '../../utils/pagination'
+import { Parser } from '../../utils/Parser'
+
+import './JournalList.css'
 
 const JournalList = () => {
     const [journals, setJournals] = useState<JournalEntry[]>([])
+    const [currentPage, setCurrentPage] = useState(1)
+    const { paginatedItems, totalPages } = getPaginatedItems(journals, currentPage, 10)
 
     useEffect(() => {
         const loadJournals = async () => {
@@ -39,9 +45,18 @@ const JournalList = () => {
 
     return (
         <div className="journal-list">
-            {journals.map((journal, index) => (
-                <Journal key={index} journal={journal} />
+            {paginatedItems.map((j) => (
+                <Journal 
+                    key={`${j.date}-${j.title}`} 
+                    journal={j} 
+                />
             ))}
+            
+            <Pagination 
+                currentPage={currentPage} 
+                totalPages={totalPages} 
+                onPageChange={setCurrentPage} 
+            />
         </div>
     )
 }

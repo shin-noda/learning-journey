@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Stack
   - Linked List
 actions:

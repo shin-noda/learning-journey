@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Binary Tree General
 actions:
   - Solved Problem 114 (Flatten Binary Tree to Linked List)

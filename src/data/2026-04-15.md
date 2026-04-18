@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Graph General
   - Graph BFS
 actions:

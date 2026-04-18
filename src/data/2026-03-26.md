@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Two Pointers
 actions:
   - Worked on Problem 167 (Two Sum II - Input Array Is Sorted)

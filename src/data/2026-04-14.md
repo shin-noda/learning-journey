@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Graph General
 actions:
   - Solved Problem 130 (Surrounded Regions)

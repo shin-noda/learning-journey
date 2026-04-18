@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Sliding Window
 actions:
   - Solved Problem 30 (Substring with Concatenation of All Words)

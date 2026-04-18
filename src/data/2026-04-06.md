@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Linked List
 actions:
   - Solved Problem 92 (Reverse Linked List II)

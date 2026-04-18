@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Trie
 actions:
   - Solved Problem 208 (Implement Trie (Prefix Tree))

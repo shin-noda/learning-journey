@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Binary Tree General
 actions:
   - Solved Problem 104 (Maximum Depth of Binary Tree)

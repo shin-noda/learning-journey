@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Binary Tree General
 actions:
   - Solved Problem 105 (Construct Binary Tree from Preorder and Inorder Traversal)

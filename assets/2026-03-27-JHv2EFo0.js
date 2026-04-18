@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Two Pointers
 actions:
   - Solved Problem 15 (3Sum)

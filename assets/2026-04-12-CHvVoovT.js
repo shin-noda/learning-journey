@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Binary Tree General
   - Binary Tree BFS
 actions:

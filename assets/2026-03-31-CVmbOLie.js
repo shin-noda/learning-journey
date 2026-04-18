@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Matrix
 actions:
   - Solved Problem 36 (Valid Sudoku)

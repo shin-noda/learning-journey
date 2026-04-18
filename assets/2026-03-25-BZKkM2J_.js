@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Two Pointers
 actions:
   - Worked on Problem 392 (Is Subsequence)

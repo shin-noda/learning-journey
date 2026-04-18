@@ -5,6 +5,7 @@ objectives:
   - LeetCode
 categories:
   - Python
+  - LeetCode
   - Linked List
 actions:
   - Solved Problem 86 (Partition List)

@@ -8,6 +8,7 @@
     width: 800px;
     max-width: 100%;
     box-sizing: border-box;
+    font-size: 1rem;
 }
 
 .journal ul {

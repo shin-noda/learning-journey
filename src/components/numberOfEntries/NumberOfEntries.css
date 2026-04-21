@@ -1,0 +1,75 @@
+.number-of-entries {
+    margin: auto;
+    margin-top: 40px;
+    padding: 10px;
+    border: 1px silver solid;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 800px;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.calendar-title {
+    align-self: center;
+    margin-bottom: 10px;
+    font-size: 1.0rem;
+}
+
+.calendar-container {
+    width: 100%;
+    overflow-x: auto; /* Allows scrolling on mobile */
+    padding-bottom: 5px;
+}
+
+.calendar-entries {
+    display: grid;
+    /* 7 rows for Sunday-Saturday */
+    grid-template-rows: repeat(7, 10px); 
+    /* Create columns as needed */
+    grid-auto-columns: 10px;
+    grid-auto-flow: column; 
+    gap: 3px;
+    justify-content: center;
+}
+
+/* Individual Blocks */
+.day-block {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    background-color: #ebedf0; /* Level 0: Default empty */
+}
+
+/* Level 1: Light Toast (The "Peach/Beige" starting point) */
+.level-1 { 
+    background-color: #e8dcc4; 
+}
+
+/* Level 2: Toasted Rice (Moving toward the golden hue) */
+.level-2 { 
+    background-color: #ceac70; 
+}
+
+/* Level 3: Fresh Brew (A deeper, saturated brown) */
+.level-3 { 
+    background-color: #b18943; 
+}
+
+/* Level 4: The Deep Roast (Your #966919 - Most Intense) */
+.level-4 { 
+    background-color: #966919; 
+}
+
+/* Legend styling */
+.calendar-legend {
+    display: flex;
+    align-self: flex-end;
+    align-items: center;
+    gap: 5px;
+    margin-top: 10px;
+    font-size: 0.75rem;
+    color: #666;
+}

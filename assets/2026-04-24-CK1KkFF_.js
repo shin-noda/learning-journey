@@ -1,6 +1,6 @@
 var e=`---
 date: 2026-04-24
-title: Worked on LeetCode Problems.
+title: Worked on LeetCode Problems
 objectives:
   - LeetCode
 categories:

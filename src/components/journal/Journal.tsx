@@ -14,7 +14,8 @@ const Journal = ({ journal }: Props) => {
             <div className="journal-objectives">
                 <strong className="journal-objectives-title">Objectives</strong>
                 <ul>
-                    {journal.objectives.map((obj, index) => (
+                    {/* Added ?. to prevent crashing if the array is missing */}
+                    {journal.objectives?.map((obj, index) => (
                         <li key={index}>{obj}</li>
                     ))}
                 </ul>
@@ -23,7 +24,7 @@ const Journal = ({ journal }: Props) => {
             <div className="journal-categories">
                 <strong className="journal-categories-title">Categories</strong>
                 <ul>
-                    {journal.categories.map((cat, index) => (
+                    {journal.categories?.map((cat, index) => (
                         <li key={index}>{cat}</li>
                     ))}
                 </ul>
@@ -32,7 +33,7 @@ const Journal = ({ journal }: Props) => {
             <div className="journal-actions">
                 <strong className="journal-actions-title">Key Actions</strong>
                 <ul>
-                    {journal.actions.map((act, index) => (
+                    {journal.actions?.map((act, index) => (
                         <li key={index}>{act}</li>
                     ))}
                 </ul>

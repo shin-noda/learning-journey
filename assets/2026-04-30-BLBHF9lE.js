@@ -1,0 +1,19 @@
+var e=`---
+date: 2026-04-30
+title: Worked on LeetCode Problems
+objectives:
+  - LeetCode
+categories:
+  - LeetCode
+  - Binary Tree - DFS
+  - Binary Tree - BFS
+  - Binary Search Tree
+actions:
+  - Solved Problem 1372 (Longest ZigZag Path in a Binary Tree)
+  - Solved Problem 236 (Lowest Common Ancestor of a Binary Tree)
+  - Solved Problem 199 (Binary Tree Right Side View)
+  - Solved Problem 1161 (Maximum Level Sum of a Binary Tree)
+  - Solved Problem 700 (Search in a Binary Search Tree)
+
+summary:  Completed the Binary Tree - DFS and Binary Tree - BFS sections and started working on the Binary Search Tree section.
+---`;export{e as default};

@@ -1,0 +1,18 @@
+var e=`---
+date: 2026-04-18
+title: Worked on LeetCode Problems
+objectives:
+  - LeetCode
+categories:
+  - Python
+  - LeetCode
+  - Backtracking
+  - Divide & Conquer
+  - Top Interview 150
+actions:
+  - Solved Problem 52 (N-Queens II)
+  - Solved Problem 22 (Generate Parentheses)
+  - Solved Problem 79 (Word Search)
+  - Solved Problem 108 (Convert Sorted Array to Binary Search Tree)
+summary: Completed problems in the Backtracking section and started working on the Divide & Conquer section.
+---`;export{e as default};

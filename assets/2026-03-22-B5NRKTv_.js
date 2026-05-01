@@ -1,0 +1,15 @@
+var e=`---
+date: 2026-03-22
+title: Worked on a LeetCode Problem
+objectives:
+  - LeetCode
+categories:
+  - Python
+  - LeetCode
+  - Top Interview 150
+  - Greedy Algorithm
+  - Array / String
+actions:
+  - Worked on Problem 12 (Integer to Roman)
+summary: I learned how to apply a greedy algorithm to convert a number into a Roman numeral.
+---`;export{e as default};

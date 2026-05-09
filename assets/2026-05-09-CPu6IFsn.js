@@ -11,5 +11,6 @@ categories:
 actions:
   - Solved Problem 881 (Boats to Save People)
   - Solved Problem 424 (Longest Repeating Character Replacement)
+  - Solved Problem 567 (Permutation In String)
 summary: Completed the Two Pointer section and started working on the Sliding Window probllems on LeetCode.
 ---`;export{e as default};

@@ -10,6 +10,5 @@ categories:
   - Two Pointers
 actions:
   - Solved Problem 15 (3Sum)
-  - Solved Problem 11 (Container With Most Water)
 summary: Completed the Two Pointers section.
 ---`;export{e as default};

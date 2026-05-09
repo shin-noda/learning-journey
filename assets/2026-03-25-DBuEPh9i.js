@@ -9,6 +9,7 @@ categories:
   - Top Interview 150
   - Two Pointers
 actions:
+  - Worked on Problem 125 (Valid Palindrome)
   - Worked on Problem 392 (Is Subsequence)
 summary: I started to work on the problems from the Two Pointers section.
 ---`;export{e as default};

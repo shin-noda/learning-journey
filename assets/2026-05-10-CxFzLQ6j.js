@@ -10,5 +10,11 @@ categories:
   - Stack
 actions:
   - Solved Problem 239 (Sliding Window Maximum)
+  - Solved Problem 682	(Baseball Game)
+  - Solved Problem 225	(Implement Stack Using Queues)
+  - Solved Problem 232	(Implement Queue using Stacks)
+  - Solved Problem 853	(Car Fleet)
+  - Solved Problem 895	(Maximum Frequency Stack)
+
 summary: Completed the Sliding Window section and started working on the Stack section on LeetCode.
 ---`;export{e as default};

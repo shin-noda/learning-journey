@@ -1,0 +1,16 @@
+var e=`---
+date: 2026-05-14
+title: Worked on LeetCode Problems
+objectives:
+  - LeetCode
+categories:
+  - LeetCode
+  - NeetCode 250
+  - Linked List
+  - Trees
+actions:
+  - Solved Problem 460 (LFU Cache)
+  - Solved Problem 94 (Binary Tree Inorder Traversal)
+  - Solved Problem 144 (Binary Tree Preorder Traversal)
+summary: Completed the Linked List section and started working on the Trees section on LeetCode.
+---`;export{e as default};

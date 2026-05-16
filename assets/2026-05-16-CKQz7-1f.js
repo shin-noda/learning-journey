@@ -1,0 +1,16 @@
+var e=`---
+date: 2026-05-16
+title: Worked on LeetCode Problems
+objectives:
+  - LeetCode
+categories:
+  - LeetCode
+  - NeetCode 250
+  - Trees
+actions:
+  - Solved Problem 337	(House Robber III)
+  - Solved Problem 1325 (Delete Leaves With a Given Value)
+summary: Worked on the Trees section on LeetCode.
+---
+
+`;export{e as default};

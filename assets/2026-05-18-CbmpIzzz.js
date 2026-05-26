@@ -11,5 +11,5 @@ actions:
   - Solved Problem 355	(Design Twitter)
   - Solved Problem 1834 (Single Threaded CPU)
   - Solved Problem 767	(Reorganize String)
-summary: Worked on the Heap / Priority Queue on LeetCode.
+summary: Worked on the Heap / Priority Queue on NeetCode.
 ---`;export{e as default};

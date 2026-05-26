@@ -15,5 +15,5 @@ actions:
   - Solved Problem 78 (Subsets)
   - Solved Problem 40 (Combination Sum II)
   - Solved Problem 90 (Subsets II)
-summary: Completed the Heap / Priority Queue and started working on the Backtracking section on LeetCode.
+summary: Completed the Heap / Priority Queue and started working on the Backtracking section on NeetCode.
 ---`;export{e as default};

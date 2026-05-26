@@ -14,5 +14,5 @@ actions:
   - Solved Problem 1046 (Last Stone Weight)
   - Solved Problem 973	(K Closest Points to Origin)
   - Solved Problem 621	(Task Scheduler)
-summary: Completed the Trees section and started working on the Heap / Priority Queue on LeetCode.
+summary: Completed the Trees section and started working on the Heap / Priority Queue on NeetCode.
 ---`;export{e as default};

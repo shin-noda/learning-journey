@@ -11,5 +11,5 @@ categories:
 actions:
   - Solved Problem 51 (N Queens)
   - Solved Problem 140 (Word Break II)
-summary: Completed the Backtracking section and started working on the Trie section on LeetCode.
+summary: Completed the Backtracking section and started working on the Trie section on NeetCode.
 ---`;export{e as default};

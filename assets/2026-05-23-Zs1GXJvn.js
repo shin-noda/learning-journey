@@ -11,5 +11,5 @@ actions:
   - Solved Problem 997 (Find the Town Judge)
   - Solved Problem 695 (Max Area of Island)
   - Solved Problem 417 (Pacific Atlantic Water Flow)
-summary: Worked on the Graphs section on LeetCode.
+summary: Worked on the Graphs section on NeetCode.
 ---`;export{e as default};

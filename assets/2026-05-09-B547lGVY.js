@@ -13,5 +13,5 @@ actions:
   - Solved Problem 424 (Longest Repeating Character Replacement)
   - Solved Problem 567 (Permutation In String)
   - Solved Problem 658 (Find K Closest Elements)
-summary: Completed the Two Pointers section and started working on the Sliding Window section on LeetCode.
+summary: Completed the Two Pointers section and started working on the Sliding Window section on NeetCode.
 ---`;export{e as default};

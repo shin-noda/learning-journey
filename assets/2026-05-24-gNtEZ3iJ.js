@@ -12,5 +12,5 @@ actions:
   - Solved Problem 1462	(Course Schedule IV)
   - Solved Problem 684 (Redundant Connection)
   - Solved Problem 721 (Accounts Merge)
-summary: Worked on the Graphs section on LeetCode.
+summary: Worked on the Graphs section on NeetCode.
 ---`;export{e as default};

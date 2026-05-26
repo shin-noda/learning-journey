@@ -11,5 +11,5 @@ categories:
 actions:
   - Solved Problem 84 (Largest Rectangle in Histogram)
   - Solved Problem 704 (Binary Search)
-summary: Completed the Stack section and started working on the Binary Search section on LeetCode.
+summary: Completed the Stack section and started working on the Binary Search section on NeetCode.
 ---`;export{e as default};

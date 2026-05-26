@@ -12,5 +12,5 @@ actions:
   - Solved Problem 2707	(Extra Characters in a String)
   - Solved Problem 463 (Island Perimeter)
   - Solved Problem 953 (Verifying An Alien Dictionary)
-summary: Completed the Trie section and started working on the Graphs section on LeetCode.
+summary: Completed the Trie section and started working on the Graphs section on NeetCode.
 ---`;export{e as default};

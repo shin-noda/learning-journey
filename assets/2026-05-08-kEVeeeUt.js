@@ -14,5 +14,5 @@ actions:
   - Solved Problem 344 (Reverse String)
   - Solved Problem 680 (Valid Palindrome II)
   - Solved Problem 18 (4Sum)
-summary: Completed the Array & Hashing section and started working on the Two Pointers problems on LeetCode.
+summary: Completed the Array & Hashing section and started working on the Two Pointers problems on NeetCode.
 ---`;export{e as default};

@@ -9,8 +9,8 @@ categories:
   - Advanced Graphs
   - 1-D Dynamic Programming
 actions:
-- Solved Problem 2392 (Build a Matrix With Conditions)
-- Solved Problem 2709 (Greatest Common Divisor Traversal)
-- Solved Problem 213 (House Robber II)
+  - Solved Problem 2392 (Build a Matrix With Conditions)
+  - Solved Problem 2709 (Greatest Common Divisor Traversal)
+  - Solved Problem 213 (House Robber II)
 summary: Finished the Advanced Graphs and started working on the 1-D Dynamic Programming seciton on NeetCode.
 ---`;export{e as default};

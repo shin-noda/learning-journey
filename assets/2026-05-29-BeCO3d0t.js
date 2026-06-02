@@ -8,6 +8,6 @@ categories:
   - NeetCode 250
   - 1-D Dynamic Programming
 actions:
-- Solved Problem 647 (Palindromic Substrings)
+  - Solved Problem 647 (Palindromic Substrings)
 summary: Worked on the 1-D Dynamic Programming seciton on NeetCode.
 ---`;export{e as default};

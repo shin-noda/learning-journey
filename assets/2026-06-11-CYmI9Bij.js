@@ -1,0 +1,18 @@
+var e=`---
+date: 2026-06-11
+title: Wrapped Up My Curated LeetCode Problem List
+objectives:
+  - LeetCode
+categories:
+  - LeetCode
+  - NeetCode 250
+  - Math & Geometry
+  - Bit Manipulation
+actions:
+ - Solved 2013 (Detect Squares)
+ - Solved 268 (Missing Number)
+ - Solved 371 (Sum of Two Integers)
+ - Solved 7 (Reverse Integer)
+ - Solved 3133 (Minimum Array End)
+summary: Completed the Math & Geometry and Bit Manipulation sections of NeetCode and finished my curated problem list.
+---`;export{e as default};

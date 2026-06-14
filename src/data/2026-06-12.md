@@ -6,6 +6,7 @@ objectives:
 categories:
   - LeetCode
   - Problem Set 97 (My Study Plan)
+  - Biconnected Component
 actions:
  - Solved 1192 (Critical Connections in a Network)
 summary: Completed the Biconnected Component section on Problem Set 97.

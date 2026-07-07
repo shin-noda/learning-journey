@@ -1,5 +1,5 @@
 var e=`---
-date: 2026-07-04
+date: 2026-07-07
 title: Worked on LeetCode Problems
 objectives:
   - LeetCode
@@ -8,8 +8,8 @@ categories:
   - Problem Set 97 (My Study Plan)
   - Suffix Array
 actions:
- - Solved 1044 (Longest Duplicate Substring)
-summary: Completed the Quickselect section on Problem Set 97.
+ - Solved 1923 (Longest Common Subpath)
+summary: Started working on the Suffix Array section on Problem Set 97.
 ---
 
  - Solved 1044 (Longest Duplicate Substring)`;export{e as default};

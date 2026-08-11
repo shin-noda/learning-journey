@@ -7,6 +7,7 @@ categories:
   - LeetCode
   - Problem Set 97 (My Study Plan)
   - Shortest Path
+  - Topological Sort
 actions:
 - Solved 882 (Reachable Nodes In Subdivided Graph)
 - Solved 1368 (Minimum Cost to Make at Least One Valid Path in a Grid)

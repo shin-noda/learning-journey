@@ -9,5 +9,7 @@ categories:
   - Segment Tree
 actions:
 - Solved 2913 (Subarrays Distinct Element Sum of Squares I)
+- Solved 307 (Range Sum Query - Mutable)
+- Solved 729 (My Calendar I)
 summary: Worked on the Segment Tree section on Problem Set 97.
 ---`;export{e as default};

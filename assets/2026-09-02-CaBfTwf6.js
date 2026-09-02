@@ -7,5 +7,6 @@ categories:
   - Deep Learning with Python
 actions:
 - Worked on Chapter 10
+- Worked on Chapter 11
 summary: Worked on Deep Learning with Python.
 ---`;export{e as default};

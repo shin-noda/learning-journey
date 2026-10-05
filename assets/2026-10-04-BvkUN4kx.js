@@ -11,5 +11,5 @@ categories:
 actions:
 - Solved 699 (Falling Squares)
 - Solved 1971 (Find if Path Exists in Graph)
-summary: Completed the Segment Tree section and started workin on the Union-Find section on Problem Set 97.
+summary: Completed the Segment Tree section and started working on the Union-Find section on Problem Set 97.
 ---`;export{e as default};

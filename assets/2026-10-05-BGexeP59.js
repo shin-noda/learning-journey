@@ -9,5 +9,9 @@ categories:
   - Union-Find
 actions:
 - Solved 785 (Is Graph Bipartite?)
+- Solved 886 (Possible Bipartition)
+- Solved 1020	(Number of Enclaves)
+- Solved 1254	(Number of Closed Islands)
+- Solved 765 (Couples Holding Hands)
 summary: Worked on the Union-Find section on Problem Set 97.
 ---`;export{e as default};
